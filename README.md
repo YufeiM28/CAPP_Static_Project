@@ -9,6 +9,9 @@ This project provides a longitudinal analysis of Chicago Public High Schools fro
 
 
 ## Data Sources
+
 Publisher data.cityofchicago.org. (2023, December 16). *City of chicago - chicago public schools - progress report cards* (2011-2012). Catalog. https://catalog.data.gov/dataset/chicago-public-schools-progress-report-cards-2011-2012 
+
 Publisher data.cityofchicago.org. (2025a, July 12). *City of chicago - chicago public schools - school progress reports SY1819*. Catalog. https://catalog.data.gov/dataset/chicago-public-schools-school-progress-reports-sy1819 
+
 Publisher data.cityofchicago.org. (2025, July 12). *City of chicago - chicago public schools - school progress reports SY2324*. Catalog. https://catalog.data.gov/dataset/chicago-public-schools-school-progress-reports-sy2324 
