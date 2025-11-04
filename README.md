@@ -6,7 +6,7 @@ Yufei Mao
 
 This project provides a longitudinal analysis of Chicago Public High Schools from 2011 to 2024, examining how key academic and contextual factors have evolved over time. Using school-level performance data from CPS Report Cards, the analysis explores changes in graduation rates, college enrollment rates, average SAT scores, and attendance rates across three academic years (2011-2012, 2018–2019, and 2023-2024). In addition, it investigates potential factors, such as school resources and familial involvement, that may contribute to variations in student attendance and overall academic outcomes. 
 
-<img src="../final/static_project_final.png" width="800">  
+![Description of image](final/static_project_final.png)
 
 ## Data Sources
 
