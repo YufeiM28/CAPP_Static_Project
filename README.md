@@ -1,6 +1,6 @@
 # Tracking Educational Trends in Chicago Public High Schools
 
-* Yufei Mao *
+Yufei Mao
 
 ## Description
 
